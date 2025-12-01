@@ -14,3 +14,5 @@ streamlit>=1.36.0 # Helps you build simple interactive web apps using Python onl
 pydantic>=2.8.2 # Helps you create clean data models with validation. A tool that checks if your data is correct (right type, right structure)
 
 matplotlib
+
+openai>=1.50.0
