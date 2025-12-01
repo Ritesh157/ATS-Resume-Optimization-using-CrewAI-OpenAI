@@ -1,0 +1,16 @@
+crewai>=0.80.0 # CrewAI is the main engine of your multi-agent system. It lets you create AI agents with roles (Researcher, Writer, Coder, etc.)
+crewai-tools>=0.12.0 # Adds extra tools for CrewAI agents—like browsing, file reading, coding, etc
+python-dotenv>=1.0.1 # Loads secret settings (like API keys) from a .env file into your code
+requests>=2.31.0 # Helps your Python program talk to websites (send/receive data)
+
+# File parsing
+pypdf>=4.2.0 # Reads and extracts text from PDF files
+python-docx>=1.1.2 # Reads and writes Microsoft Word (.docx) files
+
+# Web UI
+streamlit>=1.36.0 # Helps you build simple interactive web apps using Python only
+
+# Utilities
+pydantic>=2.8.2 # Helps you create clean data models with validation. A tool that checks if your data is correct (right type, right structure)
+
+matplotlib
